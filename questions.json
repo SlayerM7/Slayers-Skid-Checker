@@ -1,0 +1,58 @@
+{
+ "JS": [
+    {
+      "name": "What does NaN mean",
+      "answers": ["Not a Number", "not number"]
+    },
+    {
+      "name": "How many data types are there",
+      "answers": ["seven", "7"]
+    },
+    {
+      "name": "What is a bitwise operator",
+      "answers": ["32 bit", "32-bit"]
+    },
+    {
+      "name": "What is 'this' keywoard in JavaScript",
+      "answers": ["object"]
+    },
+    {
+      "name": "Does JavaScript support automatic type conversion",
+      "answers": ["yh", "yes", "ya"]
+    },
+    {
+      "name": "What is the fastest loop",
+      "answers": ["for"]
+    },
+    {
+      "name": "What does the ! operator do",
+      "answers": ["not"]
+    },
+    {
+      "name": "How to create comments/notes with JavaScript",
+      "answers": ["//"]
+    }
+  ],
+  "PY": [
+    {
+      "name": "Is python case sensitive",
+      "answers": ["yes", "yh", "ya"]
+    },
+    {
+      "name": "How to create comments/notes with Python",
+      "answers": ["#"]
+    },
+    {
+      "name": "What method is used to check the length of a String",
+      "answers": ["len"]
+    },
+    {
+      "name": "What does the split method do?",
+      "answers": ["array"]
+    },
+    {
+      "name": "What does def do",
+      "answers": ["function"]
+    }
+  ]
+}
